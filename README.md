@@ -271,6 +271,8 @@ Use design patterns such that it can be reused in multiple applications.
 
 #### Useful Websites
 
+* [The Architecture of Open Source Applications](https://aosabook.org/en/)
+* [Software Design by Example](https://third-bit.com/sdxpy/) 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
 
