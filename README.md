@@ -276,7 +276,7 @@ Use design patterns such that it can be reused in multiple applications.
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 * [System Deisgn Primer](https://github.com/donnemartin/system-design-primer)
 * [System Design Alex Xu](https://github.com/mukul96/System-Design-AlexXu/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
-
+* [Survey of Engineering Strategies](https://lethain.com/survey-of-engineering-strategies/)
 
 
 
